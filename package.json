@@ -1,6 +1,6 @@
 {
 	"name": "@oomfware/kysely-node-sqlite",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Kysely dialect for node:sqlite",
 	"license": "0BSD",
 	"repository": {
